@@ -1,0 +1,19 @@
+/*
+RezaEi.Ali
+Ovan Develop Team
+ovan.dev
+*/
+.ovandev-redirectx-admin {
+    font-family: "Segoe UI", sans-serif;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.ovandev-redirectx-admin h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.ovandev-redirectx-admin .form-table input,
+.ovandev-redirectx-admin .form-table select {
+    width: 100%;
+}
